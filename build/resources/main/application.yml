@@ -1,0 +1,12 @@
+server:
+  port: 8080
+  error:
+    include-message: always
+github:
+  api:
+    url: https://api.github.com
+spring:
+  application:
+    name: Atipera-task
+  main:
+    web-application-type: servlet
